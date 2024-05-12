@@ -29,11 +29,11 @@ main {
     figure {
         margin: 0;
         width: 55%;
-        background-image: url('/images/image-product-desktop.jpg');
+        /*background-image: url('/images/image-product-desktop.jpg');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
- 
+ */
         img {
             width: 100%;
             border-radius: 10px 0 0 10px;
@@ -114,6 +114,9 @@ main {
 
             figure {
                 width: 100%;
+                .desktop-image {
+                    display: none;
+                }
                 .mobile-image {
                     display: block;
                 }

@@ -27,10 +27,11 @@ main {
 .product-card figure {
   margin: 0;
   width: 55%;
-  background-image: url("/images/image-product-desktop.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  /*background-image: url('/images/image-product-desktop.jpg');
+         background-position: center;
+         background-size: cover;
+         background-repeat: no-repeat;
+  */
 }
 .product-card figure img {
   width: 100%;
@@ -106,6 +107,9 @@ main {
   }
   .product-card figure {
     width: 100%;
+  }
+  .product-card figure .desktop-image {
+    display: none;
   }
   .product-card figure .mobile-image {
     display: block;
