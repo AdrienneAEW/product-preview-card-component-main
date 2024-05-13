@@ -10,6 +10,7 @@ main {
     position: relative;
     top: 50%;
     transform: translateY(-50%);
+    max-width: 1400px;
 }
 
 .product-card {
@@ -119,8 +120,10 @@ main {
                 .desktop-image {
                     display: none;
                 }
+
                 .mobile-image {
                     display: block;
+                    border-radius: 0;
                 }
 
             }
