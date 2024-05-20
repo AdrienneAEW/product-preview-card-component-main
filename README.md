@@ -59,18 +59,11 @@ For years I've developed pages from a mobile first prespective. If I am honest t
 ### Continued development
 
 Learning, practicing and deploying with GitHub is an area of development I want to continue to focus on. As doing a complete review of CSS and HTML and get better acquainted with the new additions from the last updates. 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Website - [AdrienneAEW Portfolio](https://adrienneaew.me/Portfolios/AEWPortfolio/AEWPortfolio.html)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
