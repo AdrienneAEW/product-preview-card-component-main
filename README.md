@@ -12,7 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -40,7 +39,7 @@ Users should be able to:
 
 ## My process
 
-I staete
+Was to focus on designing with just HTML/CSS a sort of review of the basics. I started by building the design using two frameworks (grid and flexbox) and then worked on upping my SCSS game by setting up a global styles file with mixins and global styles. There isn't much in the file, however, it's forcing me to think more like a designer and what elements are usable across projects. In other words, I'm learning more about Sass and how to build components.
 
 ### Built with
 
